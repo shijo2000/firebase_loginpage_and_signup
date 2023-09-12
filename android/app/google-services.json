@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626244622795",
+    "project_id": "tutorial-fbdad",
+    "storage_bucket": "tutorial-fbdad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626244622795:android:b1cfd60e0271d0ad4cfe4e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626244622795-rmpkcestvl4ken1qcdhckb1t71n00dlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Oey1KMcnzWvqgGfgbO13AV0ow84tpIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626244622795-rmpkcestvl4ken1qcdhckb1t71n00dlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
